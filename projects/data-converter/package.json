@@ -1,6 +1,7 @@
 {
   "name": "angular-data-converter-component",
   "version": "0.0.2",
+  "license": "MIT",
   "peerDependencies": {
     "@angular/common": "^9.1.0",
     "@angular/core": "^9.1.0",
