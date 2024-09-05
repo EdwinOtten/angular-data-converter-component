@@ -5,6 +5,6 @@
     "eslint.lintTask.enable": true,
     "eslint.validate": ["javascript", "typescript", "html", "css"],
     "editor.codeActionsOnSave": {
-        "source.fixAll": true
+        "source.fixAll": "explicit"
     }
 }
